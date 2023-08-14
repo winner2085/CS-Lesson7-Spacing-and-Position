@@ -1,0 +1,32 @@
+/* CSS styling for code solo */
+
+/* 3. Select the sample-1 class. Using the display property, apply a value of flex. Using the justify-content property, apply a value of flex-start. */
+
+
+
+/* 4. Select the sample-2 class. Using the display property, apply a value of flex. Using the justify-content property, apply a value of space-between. */
+
+
+
+/* Add the styling for the spicy task below. */
+
+
+
+
+
+/** Styling for the items of Sample 1 **/
+.item-1 {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    background: orange;
+}
+
+/** Styling for the items of Sample 2  **/
+.item-2 {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    background: violet;
+
+}
