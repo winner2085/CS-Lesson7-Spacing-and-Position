@@ -1,7 +1,7 @@
 # Lesson 2.6: Spacing & Position
 
 ## 🎯 Objectives
-- Learn to manipulate the properties of the box model
+- Learn to manipulate the properties of the box model!
 - Use flexbox for alignment
 - Understand spacing and positioning in HTML/CSS.
 
