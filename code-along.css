@@ -1,15 +1,27 @@
 /* CSS styling for code along */
 /* 1. Add a 5px, black, solid border to the div element with the class "header". */
-
+.header{
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
 
 /* 2. Add a 5px, solid, yellow border to each individual image. */
-
+.brown{
+    border-style: solid;
+    border-color:rgb(255, 255, 165);
+    border-width: 5px;
+}
 
 /* 3. Add 5px of padding to each individual image. */
-
+.brown{
+    padding: 5px;
+}
 
 /* 4. The pics are too close to each other. Add 5px of margin to each one. */
-
+.brown{
+    margin: 5px;
+}
 
 .row1 {
     display: flex;
